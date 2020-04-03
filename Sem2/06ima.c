@@ -6,7 +6,6 @@ struct complex
 };
 void add(struct complex n1, struct complex n2,struct complex *res)
 {
-    struct complex temp;
     res->r = n1.r + n2.r;
     res->i = n1.i + n2.i;
 }
