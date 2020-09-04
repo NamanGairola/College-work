@@ -1,5 +1,4 @@
 def prime(n):
-    print(n)
     j=0
     for i in n:
         check=0
