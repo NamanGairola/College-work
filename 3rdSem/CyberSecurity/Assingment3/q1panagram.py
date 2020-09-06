@@ -1,4 +1,3 @@
-import string
 str=input()
 str=str.lower()
 s=list(set(str))
